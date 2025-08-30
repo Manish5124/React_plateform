@@ -1,0 +1,14 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.quote{
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 65px;
+}
+
+.highlight{
+    color: #24cfa6;
+}
