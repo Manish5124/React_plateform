@@ -32,5 +32,18 @@
     color: white;
     transform: scale(1.05);
   }
+
+  /* 📱 For mobile devices */
+@media (max-width: 600px) {
+  .circle {
+    font-size: 18px;     /* smaller font size */
+    min-width: 70px;     /* shrink circle size */
+    min-height: 70px;
+    padding: 12px 25px;  /* less padding */
+    border-radius: 40px; /* keep rounded shape */
+  }
+
+
+}
   
   
