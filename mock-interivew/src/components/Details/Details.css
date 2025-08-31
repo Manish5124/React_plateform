@@ -1,0 +1,18 @@
+.details{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.form{
+    margin-left: 20px;
+    /* background-color: #24cfa6; */
+    color: aliceblue;
+    outline-color: #24cfa6;
+}
+
+.form:hover{
+    background-color: #24cfa6;
+}

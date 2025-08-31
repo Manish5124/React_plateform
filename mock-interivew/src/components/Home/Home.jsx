@@ -2,6 +2,7 @@ import React from 'react';
 import './Home.css';
 import Category from '../Category/Category';
 import Subscription from '../Subscription/Subscription';
+import Details from '../Details/Details';
 
 function Home() {
   return (
@@ -15,6 +16,9 @@ function Home() {
       </div>
       <div>
       <Subscription/>
+      </div>
+      <div>
+        <Details/>
       </div>
     </div>
   )
